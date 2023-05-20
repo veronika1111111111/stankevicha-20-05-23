@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node2">
+<tour start="node1">
   <panorama id="node2">
     <input height="1500" levelingroll="0" levelbias="0.400" leveltilesize="510" overlap="1" leveltileurl="tiles/1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="1500" levelbiashidpi="0.400">
       <level height="1500" preload="0" predecode="0" width="1500"/>
